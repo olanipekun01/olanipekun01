@@ -1,7 +1,7 @@
-<h1 align="center">Olanipekun,</h1>
-<h3 align="center">A tech lover, an open sourcer and a passionate BE Dev.</h3>
+<h1 align="center">Eyitayo Olonilua Olanipekun,</h1>
+<h3 align="center">A tech lover, an open sourcer and a passionate FE Dev.</h3>
 
-- 🔭 I’m currently working on [hng](https://github.com/olanipekun01/task_1)
+- 🔭 I’m currently working on [REACT](https://github.com/olanipekun01/)
 
 - 🌱 I’m currently learning **Web Apps**
 
