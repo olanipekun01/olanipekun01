@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [hng](https://github.com/olanipekun01/task_1)
 
-- 🌱 I’m currently learning **Django REST Framework**
+- 🌱 I’m currently learning **Web Apps**
 
-- 👯 I’m looking to collaborate on **REACT/Django/API related Projects**
+- 👯 I’m looking to collaborate on **REACT/API related Projects**
 
-- 💬 Ask me about **REACT, Django, DRF, Python.**
+- 💬 Ask me about **REACT, Javascript, Python.**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/isaiah-olaoye/](https://www.linkedin.com/in/isaiah-olaoye/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/eyitayo-olonilua-593b8b197/](https://www.linkedin.com/in/eyitayo-olonilua-593b8b197/)
 
 - ⚡ Fun fact **I love creating music mixtapes.**
 
